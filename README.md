@@ -1,2 +1,2 @@
-# computersciencegeeks
-official git repository of "computer science geeks"!
+# Computer Science Geeks
+Official git repository of **Computer Science Geeks** website.
